@@ -1,6 +1,5 @@
 
 
-
 class ObjectMatcher
   
   def self.head(list)

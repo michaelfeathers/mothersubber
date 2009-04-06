@@ -1,4 +1,5 @@
 
+
 require 'set'
 
 class ObjectGatherer
